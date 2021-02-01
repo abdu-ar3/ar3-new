@@ -6,5 +6,7 @@ Rencana Coding AR3
 - Mysql
 - J.son
 - Rest API
-- Laravel
+- PHP Framework
+ * Laravel
 - Git & Git HUB
+- Pyhton
