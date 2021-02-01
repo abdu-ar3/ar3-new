@@ -2,13 +2,13 @@ Rencana Coding AR3
 
 - Java Script 
  * Rest API
- * Frmaework JS
-   # React
-   # Vue
+ * Framawork JS
+  # Angular
+  # React
 - Mysql
 - J.son
 - Rest API
-- PHP Framework
- * Laravel
+- Php framework
+ # Laravel
 - Git & Git HUB
 - Pyhton
